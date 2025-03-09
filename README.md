@@ -3,6 +3,6 @@
 <br>
 下面是成品展示图<br>
 如图所示:<br>
-<img src="images/picture1.jpg" alt="成品图-1" width="1920" height="1080"><br>
+<img src="images/picture1.jpg" alt="成品图-1" width="300" height="200"><br>
 <br>
-<img src="images/picture2.jpg" alt="成品图-2" width="1920" height="1080"><br>
+<img src="images/picture2.jpg" alt="成品图-2" width="300" height="200"><br>
