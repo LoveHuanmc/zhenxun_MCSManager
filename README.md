@@ -5,10 +5,10 @@
 <br>
 下面是成品展示图<br>
 如图所示:<br>
-<img src="images/picture1.jpg" alt="成品图-1" width="300" height="200"><br>
+<img src="images/picture1.jpg" alt="成品图-1" width="400" height="300"><br>
 <br>
-<img src="images/picture2.jpg" alt="成品图-2" width="300" height="200"><br>
+<img src="images/picture2.jpg" alt="成品图-2" width="400" height="300"><br>
 <br>
 免责声明:已得到允许而二次开发<br>
 如图所示:<br>
-<img src="images/qq1.jpg" alt="允许图-1" width="300" height="200"><br>
+<img src="images/qq1.jpg" alt="允许图-1" width="400" height="300"><br>
